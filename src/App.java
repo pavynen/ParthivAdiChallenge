@@ -30,5 +30,6 @@ public class App {
         
         //Assert functions
         //iterations
+        //Exception or error handling functions
     }
 }
